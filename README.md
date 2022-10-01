@@ -5,3 +5,5 @@ Foi parte de um demake que fiz com meu amigo, porém o código se perdeu, e aqui
 Se se interessou em algum pode usar livremente, mas alguns modelos são feitos em cima de outros modelos então
 
 ⚠️ tome cuidado para não mexer com os direitos de outra empresa! ⚠️
+
+Aqueles que foram feitos em cima de outro modelo terão esse simbolo ao lado "⚠️"
